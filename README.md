@@ -12,6 +12,14 @@
 - EDA & Power-BI dashboard.
 
 # 3.E-mail Classifier 
+- Data Exploration
+- Feature Engineering
+- Data Cleaning
+- Tokenization
+- Removing Stopwords
+- Lemmatization
+- Vectorization
+- Data Modelling with more that 97% accuracy
 
 
 
