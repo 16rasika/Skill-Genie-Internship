@@ -7,7 +7,7 @@
 -	Designed & modelled a DL algorithm using python with accuracy of 85%.
 - Positive & negative reviews analysis and visualization with word cloud.
 
-# 2.Walmart Sales Anlysis
+# 2.Super-store Sales Anlysis
 - Feature engineering using python for different ML algorithms.
 - EDA & Power-BI dashboard.
 
